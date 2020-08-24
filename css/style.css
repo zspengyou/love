@@ -1,0 +1,108 @@
+.page-4 img{	
+	object-fit: contain;
+}
+.page-4 h2{	
+	line-height: 0.6;
+}
+.page-5 img{
+	/*margin-top: 10px: */
+	object-fit: contain;
+}
+.page-6 h2{	
+	margin-left: 500px;
+}
+.page-8 img{	
+	/*text-align: right;*/
+	object-fit: contain;
+}
+.page-8 h3{	
+	/*text-align: right;*/
+	left:45%;
+}
+.page-10 h3{	
+	/*text-align: right;*/
+	margin: 5%;
+}
+
+.page-12 img {
+	height: 100%;
+}
+
+.page-12 h3{
+	text-align: right;
+}
+.page-14 h3{
+	margin-left: 110%;
+}
+
+.page-16 #text-171{
+	color: white;
+}
+.page-18 img{
+	object-fit: contain;
+}
+.page-18 .text{
+	color: white;
+	margin: 1%;
+}
+
+.page-20 .text{
+	text-align: right;
+	margin-right: 3%;
+}
+.page-20 #text-221{
+	margin-top: -80px;	
+}
+.page-24 img{
+	object-fit: cover;
+}
+.page-24 #text-26{
+	color: white;
+}
+
+.page-27 #text-30{
+	color: white;
+}
+
+.page-29 #text-32{
+	text-align: bottom;
+}
+
+.page-30 .text{
+	text-align: right;
+	margin-right: 3%;
+}
+
+.page-36 img{
+	object-fit: contain;
+}
+
+.page-36 .text{
+	color: white;
+}
+
+.page-41 #text-46{
+	text-align: right;
+}
+
+.page-42 .text{
+	/*text-align: right;*/
+}
+
+.page-42 img{
+	object-fit: contain;
+}
+.page-49 img{
+	object-fit: cover;
+}
+.page-50 #text-66{
+	color: white;
+}
+.page-52 img{
+	object-fit: contain;
+}
+
+.page-52 #text-71{
+	color:white;
+}
+
