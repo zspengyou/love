@@ -1,5 +1,5 @@
 original repo: https://github.com/arunboy/love  
-original demp: https://arunboy.github.io/love/  
+original demo: https://arunboy.github.io/love/  
 
 new repo: https://github.com/zspengyou/love  
 new demo: https://yafei.woyangnia.com/  
