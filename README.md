@@ -47,5 +47,4 @@ aws --profile personalAccount s3 cp /Users/jayzho/jayWorkspace/jayzhoGithub/love
 ```
 
 
-aws --profile personalAccount s3 cp /Users/jayzho/jayWorkspace/jayzhoGithub/love/css/all.min.css s3://content.jiageiwoba.com/css/all.min.css 
 
